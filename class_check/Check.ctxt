@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Check
+comment0.text=\r\n\ Write\ checkbook\ info\ to\ the\ check\r\n
+comment1.params=amount\ payee\ reason
+comment1.target=Check(double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ checkAmountValue()
+comment3.params=amount
+comment3.target=void\ checkAmountValueFix(double)
+comment4.params=
+comment4.target=java.lang.String\ checkPayee()
+comment5.params=payee
+comment5.target=void\ checkPayeeValueFix(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ checkReason()
+comment7.params=reason
+comment7.target=void\ checkReasonValueFix(java.lang.String)
+comment8.params=
+comment8.target=void\ printCheck()
+numComments=9

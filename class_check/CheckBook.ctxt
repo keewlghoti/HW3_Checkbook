@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CheckBook
+comment1.params=currentBalance
+comment1.target=CheckBook(double)
+comment2.params=checkAdd
+comment2.target=void\ addCheck(Check)
+comment3.params=
+comment3.target=double\ checkBalanceValue()
+comment4.params=deposit
+comment4.target=double\ addDeposit(double)
+comment5.params=
+comment5.target=void\ printBalance()
+comment6.params=
+comment6.target=void\ printCheckBook()
+comment7.params=
+comment7.target=int\ setCheckNumber()
+numComments=8
